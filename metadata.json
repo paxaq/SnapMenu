@@ -1,0 +1,7 @@
+{
+  "name": "T-Menu - AI Menu Digitizer",
+  "description": "Transform physical restaurant menus into digital, QR-code ready mobile experiences using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
